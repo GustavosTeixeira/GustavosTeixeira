@@ -1,4 +1,4 @@
-Olá , eu sou Gustavo Silva Teixeira !
+Olá , eu sou Gustavo !
 
 
 - ✔ Estudante no Instituto PROA
