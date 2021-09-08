@@ -3,8 +3,7 @@ Bem Vindo !
 
 - ✔ Estudante no Instituto PROA
 - ✔ Aprendendo e aprimorando HTML5 e CSS3
-- ✔ Iniciando Bootstrap
-- ✔ Iniciando JavaScript
+- ✔ Iniciando Bootstrap e JavaScript
 
 <div>
   <a href="https://github.com/GustavosTeixeira">
