@@ -1,9 +1,13 @@
 <h1>Bem Vindo, meu nome é Gustavo !</h1>
 
 
-- ✔ Estudante no Instituto PROA
-- ✔ Aprendendo e aprimorando HTML5 e CSS3
-- ✔ Iniciando Bootstrap e JavaScript
+° 🎓 Estudando Programação Full-Stack no Instituto Proa.
+
+° 💼 Buscando oportunidades para inicio de carreira (Desenvolvedor Junior, Desenvolvedor Java Junior, Desenvolvedor Front-end Junior).
+
+° 🚀 Me aprofundando em  HTML5, CSS3 e JavaScript.
+
+
 
 <div>
   <a href="https://github.com/GustavosTeixeira">
