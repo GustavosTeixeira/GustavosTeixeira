@@ -3,7 +3,7 @@
 
 ° 🎓 Estudando Programação Full-Stack no Instituto Proa.
 
-° 💼 Buscando oportunidades para inicio de carreira (Desenvolvedor Junior, Desenvolvedor Java Junior, Desenvolvedor Front-end Junior).
+° 💼 Buscando oportunidades para inicio de carreira.
 
 ° 🚀 Me aprofundando em  HTML5, CSS3 e JavaScript.
 
