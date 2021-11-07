@@ -8,13 +8,13 @@
 ° 🚀 Me aprofundando em  HTML5, CSS3 e JavaScript.
 
 
-
+<hr>
 <div align="center">
   <a href="https://github.com/GustavosTeixeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavosTeixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavosTeixeira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavosTeixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavosTeixeira&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <div style="display: inline-block"><br>
+ 
     
  <h2 align="center">Aprendendo e Aprimorando</h2>
   <p align="center">
