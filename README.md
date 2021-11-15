@@ -1,12 +1,12 @@
 <h1>Bem Vindo, meu nome é Gustavo !</h1>
 
-
+<div align="center">
 ° 🎓 Estudando Programação Full-Stack no Instituto Proa.
 
 ° 💼 Buscando oportunidades para inicio de carreira.
 
 ° 🚀 Me aprofundando em  HTML5, CSS3 e JavaScript.
-
+</div>
 
 <hr>
 <div align="center">
