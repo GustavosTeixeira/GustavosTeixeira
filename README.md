@@ -2,7 +2,7 @@
 
 
 <div align="center">
-° 🎓 Estudate do Instituto Proa.</br>
+° 🎓 Formado Instituto Proa.</br>
 ° 🚀 Me aprofundando em  HTML5, CSS3 e JavaScript.</br>
 ° 💼 Buscando oportunidades para inicio de carreira.
 </div>
