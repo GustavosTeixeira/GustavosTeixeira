@@ -1,8 +1,7 @@
-<h1 align="center">Bem Vindo, meu nome é Gustavo !</h1>
+<h1 align="center">Olá, eu sou Gustavo !</h1>
 
 
-<div align="center">
-° 🎓 Formado Instituto Proa.</br>
+<div>
 ° 🚀 Me aprofundando em  HTML5, CSS3 e JavaScript.</br>
 ° 💼 Buscando oportunidades para inicio de carreira.
 </div>
