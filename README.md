@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Gustavo !</h1>
+<h1>Olá, eu sou Gustavo !</h1>
 
 
 <div>
